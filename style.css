@@ -18,7 +18,9 @@
     text-transform: uppercase;
     line-height : 1.4;
   }
-  
+  .p-l{
+        padding-left: 20px;
+    }
   .announcement-bar-heading{
     padding: 0px 10px;
     font-weight: 600;
@@ -726,7 +728,6 @@ padding-bottom: 5%;
    
 .section-6-main{
   display: flex;
-  gap: 20px;
 }
 
 
